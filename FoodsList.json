@@ -36,5 +36,5 @@
     {"foodId":35,"foodName": "Siyah Çay", "price": 8,"catagoryId":8,"catagoryName":"İçecekler","foodImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_LpWV5fiBdcrET5LEFleJZwvA9G_ioGbPAw&s"},
     {"foodId":36,"foodName": "Çin Baharatlı Limonata", "price": 15,"catagoryId":8,"catagoryName":"İçecekler","foodImage":""},
     {"foodId":37,"foodName": "Lychee Şerbeti", "price": 12,"catagoryId":8,"catagoryName":"İçeceklerr","foodImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8l33QSWnq0-h5OFAHtnEIP0WQOUueV9sDHw&s"},
-    {"foodId":38,"foodName": "Meyve Suyu", "price": 12,"catagoryId":8,"catagoryName":"İçecekler","foodImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReIYbl5Xg8Ai3e-um-vBVRpu3QuAHK-OwuLQ&s"},
+    {"foodId":38,"foodName": "Meyve Suyu", "price": 12,"catagoryId":8,"catagoryName":"İçecekler","foodImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReIYbl5Xg8Ai3e-um-vBVRpu3QuAHK-OwuLQ&s"}
 ]
